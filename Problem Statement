@@ -1,0 +1,2 @@
+This is a problem of multi-class classification. We have 8 different classes and each class has a fixed size 1-D features. 
+You have to train a multiclass classifier on train data and train labels and predict the labels for test data.
